@@ -2,7 +2,7 @@
 
 # CRISPR genome engineering for cellular modelling and screening 
 
-## 7-11 October 2024, Virtual Course
+## 4-8 Novemeber 2024, Wellcome Genome Campus, Hinxton, UK
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-genome-engineering-for-cellular-modelling-and-screening-2024-20241007/) <br /> 
 [Course Time Table YEAR](#) <br /> 
@@ -70,8 +70,10 @@ The courses will cover topics including:
 - [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Education Developer
 - [Cassandra Soo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiHsomN3oP-AhUjSkEAHRWxDaYQFnoECA4QAQ&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fcassandra-claire-soo-b3783277%2Fms%3Ftrk%3Dpeople-guest_people_search-card&usg=AOvVaw3virsoWY_4fVRTpWiL8yDE), Laboratory Courses Manager
 - [Aaron Dean](https://www.wellcomeconnectingscience.org/about-us/our-people/#{%22-%22:{%22text%22:%22aaron%22}}), Laboratory Technical Officer
+- [Christoper Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
 - [Amy Pass](https://www.wellcomeconnectingscience.org/person/pass-amy/), Events Organiser
 - [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 - [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
 - [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
 
